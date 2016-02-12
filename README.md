@@ -1,5 +1,5 @@
 # Promisex
-Utilities for jQuery promises
+Utility methods for jQuery promises
 
 * `promisex.runinSequence([calls])` - Takes an array of promise objects and runs them in sequence.
 

@@ -1,8 +1,9 @@
 {
   "name": "promisex",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Utility methods for jQuery promises",
   "main": "index.js",
+  "repository": "https://github.com/leojh/promisex",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
